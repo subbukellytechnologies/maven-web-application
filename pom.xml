@@ -98,14 +98,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://3.110.88.42:9980/mithuntechnologies/repository/facebook-release/</url>
+	      <name>subbukelly Technologies Releases Nexus Repository</name>
+	      <url>http://65.0.105.242:8081/repository/wallmart-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.110.88.42:9980/mithuntechnologies/repository/facebook-snapshot/</url>
+	      <name>subbukelly Technologies Snapshot Nexus Repository </name>
+	      <url>http://65.0.105.242:8081/repository/wallmart-releases/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
